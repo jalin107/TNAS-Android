@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.terramaster"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        name="com.terramaster.MyApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.terramaster.SplashActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.terramaster.WelcomeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.player.MyImageView"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.CloudWebActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.HomeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.SettingsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.PatternLockActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.SetPatternActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.ConfirmPatternActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.LockIntervalActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.DeviceFilesActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.LocalFilesActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.TaskListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.SelectDeviceFilesActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.AutoBackupActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.SelectPhotoAlbumActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.terramaster.BackupModeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <receiver android:name="com.terramaster.BootCompleteReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.terramaster.service.BackgroundTaskService"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="com.terramaster.service.AutoBackupService"
+            android:exported="false" >
+        </service>
+    </application>
+
+</manifest>

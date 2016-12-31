@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#F8F8F8</color>
+    <color name="primaryColorDark">#F8F8F8</color>
+
+    <!-- Text colors -->
+    <color name="text_color_black">#010101</color>
+    <color name="text_color_white">#FEFCFF</color>
+    <color name="text_color_grey">#808080</color>
+    <!--playercolor-->
+    <color name="uvv_black">#ff000000</color>
+    <color name="white_20">#51ffffff</color>
+    <color name="uvv_titlebar_bg">#7f000000</color>
+    <color name="uvv_light_gray">#ffF0F0F0</color>
+    <!-- Other colors -->
+    <color name="mainBg">#FFFFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="blue">#0075F9</color>
+    <color name="light_blue">#ebebf1</color>
+    <color name="light_blue_2">#7b849b</color>
+    <color name="lock_path">#a2bfd7</color>
+    <color name="dark_grey">#949CA7</color>
+    <color name="dialog_bg">#F0EFEF</color>
+    <color name="divider_line">#DCDCDC</color>
+
+    <!-- For page indicatior -->
+    <bool name="default_circle_indicator_centered">true</bool>
+    <color name="default_circle_indicator_fill_color">#2178FD</color>
+    <color name="default_circle_indicator_page_color">#D9DBDA</color>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_radius">@dimen/dp_5</dimen>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <dimen name="default_circle_indicator_stroke_width">0dp</dimen>
+</resources>

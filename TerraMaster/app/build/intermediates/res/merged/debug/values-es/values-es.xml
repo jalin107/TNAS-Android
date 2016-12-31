@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_intervals">
+        <item>Ahora</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>3 minutos</item>
+        <item>4 minutos</item>
+        <item>5 minutos</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="album_auto_backup">Copia de seguridad automática del álbum</string>
+    <string name="album_backup">Copia de seguridad de álbum</string>
+    <string name="alert">Alerta</string>
+    <string name="all">Todo</string>
+    <string name="all_completed">Todos los completados</string>
+    <string name="all_files">Todos los archivos</string>
+    <string name="app_name">TNAS</string>
+    <string name="auto_back_instruction">Realice automáticamente copias de seguridad de las fotos de su móvil en el dispositivo TNAS</string>
+    <string name="auto_backup">Copia de seguridad automática</string>
+    <string name="auto_pause_when_power_low">Parada automática cuando la energía es inferior a 20%</string>
+    <string name="back">Anterior</string>
+    <string name="backup_all_photos">Realizar copia de seguridad de todas las fotos</string>
+    <string name="backup_mode">Modo de copia de seguridad</string>
+    <string name="backup_photos_to">Realizar copia de seguridad de fotos en: </string>
+    <string name="cancel">Cancelar</string>
+    <string name="check_pattern">Comprobar patrón</string>
+    <string name="clear_local_files">Suprimir archivos locales temporales</string>
+    <string name="close_pattern_lock">Cerrar patrón de bloqueo</string>
+    <string name="completed">Completado</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_clear_local_files">¿Seguro que desea suprimir todos los archivos locales temporales?</string>
+    <string name="confirm_delete_all_task">¿Seguro que desea borrar todas las tareas de la lista de tareas?</string>
+    <string name="confirm_delete_directory">¿Seguro que desea borrar este directorio?</string>
+    <string name="confirm_delete_file">¿Seguro que desea borrar este archivo?</string>
+    <string name="confirm_facebook_install">La aplicación Facebook no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_googleplus_install">La aplicación Google plus no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_linkedin_install">La aplicación LinkedIn no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_mailapp_install">Parece que no hay ninguna aplicación para el envío de correo electrónico instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_qq_install">La aplicación QQ no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_tcloud_remote_login">No se ha encontrado ningún dispositivo TNAS local.\n\n¿Desea disponer de TNAS con inicio de sesión remoto?</string>
+    <string name="confirm_twitter_install">La aplicación Twitter no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_wechat_install">La aplicación WeChat no está instalada. ¿Desea instalarla ahora?</string>
+    <string name="confirm_wifi_setting">Su dispositivo móvil y el dispositivo TNAS deben estar en la misma subred (Wi-Fi). ¿Desea acceder a la configuración Wi-Fi ahora?</string>
+    <string name="create_new_folder">Crear nueva carpeta</string>
+    <string name="delete">Borrar</string>
+    <string name="delete_all">Borrar todo</string>
+    <string name="display_password">Mostrar\ncontraseña</string>
+    <string name="download">Descargar</string>
+    <string name="download_tip">Download path:</string>
+    <string name="downloading">Descargando…</string>
+    <string name="e_blank_file_name">Introduzca el nombre del archivo</string>
+    <string name="e_blank_password">Introduzca su contraseña</string>
+    <string name="e_blank_username">Introduzca su nombre de usuario</string>
+    <string name="e_login_failed">Los parámetros de conexión no son correctos. Inténtelo de nuevo.</string>
+    <string name="e_no_app_found">No se ha encontrado ninguna aplicación adecuada para abrir este archivo.</string>
+    <string name="e_no_email_app_found">No se ha encontrado ninguna aplicación de correo electrónico adecuada para enviar comentarios.</string>
+    <string name="e_no_internet">Compruebe su conexión a Internet e inténtelo de nuevo.</string>
+    <string name="e_select_album_for_backup">Seleccione como mínimo un álbum para realizar la copia de seguridad</string>
+    <string name="e_select_file_download">Seleccione los archivos para descargar</string>
+    <string name="e_select_file_share">Seleccione los archivos para compartir</string>
+    <string name="e_unknown">Se ha producido un error. Inténtelo de nuevo.</string>
+    <string name="e_unknown_file_format">Formato de archivo desconocido</string>
+    <string name="e_upload_to_readonly_directory">No es posible cargar archivos en un directorio de solo lectura</string>
+    <string name="e_upload_to_root_directory">No es posible cargar archivos en el directorio raíz</string>
+    <string name="enable_auto_backup">Activar copia de seguridad automática</string>
+    <string name="error">Error</string>
+    <string name="facebook">Facebook</string>
+    <string name="feedback">Comentarios</string>
+    <string name="file_download">Descarga de archivos</string>
+    <string name="file_selected">archivo(s) seleccionado(s)</string>
+    <string name="finish">Finalizar</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="hide_password">Ocultar\ncontraseña</string>
+    <string name="home">Inicio</string>
+    <string name="instagram">Instagram</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="ip">IP: </string>
+    <string name="item">Artículo(s)</string>
+    <string name="lets_start">Vamos a empezar</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="local_file">Archivo local</string>
+    <string name="lock_interval">Intervalo de bloqueo</string>
+    <string name="login">Inicio de sesión</string>
+    <string name="login_tcloud">Iniciar sesión en dispositivo TNAS</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="mac">MAC: </string>
+    <string name="mail">Correo electrónico</string>
+    <string name="me">Yo</string>
+    <string name="modify_pattern_lock">Modificar patrón de bloqueo</string>
+    <string name="more">Más</string>
+    <string name="name">Nombre: </string>
+    <string name="next">Siguiente</string>
+    <string name="no">No</string>
+    <string name="no_connection">Sin conexión</string>
+    <string name="no_devices_found">No se ha encontrado ningún dispositivo TNAS local</string>
+    <string name="no_item">Ningún artículo disponible</string>
+    <string name="no_photos_backed_up">Número de fotos incluidas en la copia de seguridad</string>
+    <string name="no_task">Ninguna tarea disponible</string>
+    <string name="ok">ACEPTAR</string>
+    <string name="only_backup_new_photos">Solamente realizar copia de seguridad de fotos nuevas</string>
+    <string name="password">Contraseña</string>
+    <string name="password_lock">Bloqueo de contraseña</string>
+    <string name="pattern_lock_settings">Patrón de bloqueo</string>
+    <string name="pattern_lock_switch">Conmutador de patrón de bloqueo</string>
+    <string name="pause">Parar</string>
+    <string name="pause_all">Parar todo</string>
+    <string name="paused">Parado</string>
+    <string name="permanent_preservation">Conservación permanente</string>
+    <string name="pintrest">Pintrest</string>
+    <string name="pl_access_pattern_cell_added">Celda añadida</string>
+    <string name="pl_access_pattern_cleared">Patrón suprimido</string>
+    <string name="pl_access_pattern_detected">Patrón completado</string>
+    <string name="pl_access_pattern_start">Patrón iniciado</string>
+    <string name="pl_cancel">Cancelar</string>
+    <string name="pl_confirm">Confirmar</string>
+    <string name="pl_confirm_pattern">Dibuje el patrón de nuevo para confirmar</string>
+    <string name="pl_continue">Continuar</string>
+    <string name="pl_draw_pattern">Dibuje un patrón de desbloqueo</string>
+    <string name="pl_draw_pattern_to_unlock">Dibuje el patrón para desbloquear</string>
+    <string name="pl_forgot_pattern">Ha olvidado el patrón</string>
+    <string name="pl_pattern_confirmed">Su nuevo patrón de desbloqueo</string>
+    <string name="pl_pattern_recorded">Patrón registrado</string>
+    <string name="pl_pattern_too_short">Debe conectar como mínimo %d puntos. Vuelva a dibujarlo.</string>
+    <string name="pl_recording_pattern">Levante el dedo al finalizar</string>
+    <string name="pl_redraw">Redibujar</string>
+    <string name="pl_wrong_pattern">Patrón incorrecto. Inténtelo de nuevo.</string>
+    <string name="please_select_directory_for_backup">Seleccione el directorio para realizar la copia de seguridad</string>
+    <string name="qq">QQ</string>
+    <string name="recover">Recuperar</string>
+    <string name="recovery_all">Recuperar todo</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="remote_login">Inicio de sesión remoto</string>
+    <string name="rename">Renombrar</string>
+    <string name="searching">Buscando…</string>
+    <string name="secure_backup">Copia de seguridad fiable</string>
+    <string name="select_album">Seleccionar álbum</string>
+    <string name="select_album_for_auto_backup">Seleccione un álbum para realizar\ncopia de seguridad automática</string>
+    <string name="select_file">Selecciona archivo(s)</string>
+    <string name="set_pattern_lock">Establecer patrón de bloqueo</string>
+    <string name="settings">Configuración</string>
+    <string name="share">Compartir</string>
+    <string name="share_subject">Terramaster Share Links</string>
+    <string name="start_upload">Iniciar la carga</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="success_create_directory">Carpeta creada correctamente</string>
+    <string name="success_delete_all_completed_task">Todas las tareas completadas eliminadas de la lista de tareas</string>
+    <string name="success_delete_all_task">Todas las tareas eliminadas de la lista de tareas</string>
+    <string name="success_delete_directory">Carpeta borrada correctamente</string>
+    <string name="success_delete_file">Archivo borrado correctamente</string>
+    <string name="success_delete_task">Tarea eliminada de la lista de tareas</string>
+    <string name="success_download">La descarga de archivos se ha añadido a la lista de tareas.</string>
+    <string name="success_pause_all_task">Todas las tareas paradas correctamente</string>
+    <string name="success_pause_task">Tarea parada correctamente</string>
+    <string name="success_recover_all_task">Todas las tareas recuperadas correctamente</string>
+    <string name="success_recover_task">Tarea recuperada correctamente</string>
+    <string name="success_rename_directory">Carpeta renombrada correctamente</string>
+    <string name="success_rename_file">Archivo renombrado correctamente</string>
+    <string name="success_upload">subida(s) de archivo(s) se ha(n) añadido a la lista de tareas.</string>
+    <string name="tasks_list">Lista de tareas</string>
+    <string name="tenable">Sostenible</string>
+    <string name="terra_master_splash">TerraMaster - Data Storage Master</string>
+    <string name="total_number_of_photos">Número total de fotos: </string>
+    <string name="twitter">Twitter</string>
+    <string name="untenable">Insostenible</string>
+    <string name="upload">Cargar</string>
+    <string name="upload_only_wifi">Cargar solo con Wi-Fi</string>
+    <string name="upload_to">Cargar en:- </string>
+    <string name="uploading">Cargando…</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="version_information">Información de la versión</string>
+    <string name="waiting">Esperando…</string>
+    <string name="we_chat">WeChat</string>
+    <string name="welcome_1">¡Bienvenido a TerraMaster TNAS!</string>
+    <string name="welcome_1_info">TNAS le permite acceder al equipamiento TNAS de TerraMaster en cualquier momento\nGestione y comparta documentos almacenados fácilmente</string>
+    <string name="welcome_2">Navegue por sus fotos y realice copias de seguridad</string>
+    <string name="welcome_3">Reproduzca vídeos y música</string>
+    <string name="welcome_4">Comparta y descargue archivos</string>
+    <string name="wifi">WiFi</string>
+    <string name="yes">sí</string>
+</resources>

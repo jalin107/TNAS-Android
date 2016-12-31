@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/dark_grey"
+              android:gravity="center_vertical"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/dp_10"
+              android:paddingTop="@dimen/dp_10">
+
+    <LinearLayout
+        android:id="@+id/llFileOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"/>
+<!--
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvShare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_share"
+            android:gravity="center"
+            android:text="@string/share"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+-->
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvDownload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_download"
+            android:gravity="center"
+            android:text="@string/download"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvRename"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_rename"
+            android:gravity="center"
+            android:text="@string/rename"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_delete"
+            android:gravity="center"
+            android:text="@string/delete"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llDirectoryOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvRenameDirectory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_rename"
+            android:gravity="center"
+            android:text="@string/rename"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvDeleteDirectory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/dp_3"
+            android:drawableTop="@drawable/ic_option_delete"
+            android:gravity="center"
+            android:text="@string/delete"
+            android:textColor="@color/text_color_white"
+            android:textSize="@dimen/sp_10">
+        </com.terramaster.widget.MyTextView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>

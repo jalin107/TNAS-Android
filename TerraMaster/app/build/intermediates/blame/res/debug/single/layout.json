@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_headerbar.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\layout_headerbar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_files.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_device_files.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_lock.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_password_lock.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auto_backup.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_auto_backup.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lock_interval.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_lock_interval.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_player_controller.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\uvv_player_controller.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_local_files.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_local_files.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_view.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\image_view.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_device_files.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_device_files.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_success.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\toast_success.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_list.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_task_list.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_device_files.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_select_device_files.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_headerbar_dialog.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\layout_headerbar_dialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_testing.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_testing.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome_1.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_welcome_1.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_view.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_local_file.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_local_file.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome_4.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_welcome_4.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_on_loading_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\uvv_on_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_task_option.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\popup_task_option.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_on_error_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\uvv_on_error_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner_dropdown.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_photo_album.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_select_photo_album.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome_3.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_welcome_3.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_more_options.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\dialog_more_options.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_device_file.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_select_device_file.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_test.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_login_test.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welcome_2.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\fragment_welcome_2.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_value.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\dialog_enter_value.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_file.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_device_file.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_local_files.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_local_files.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_photo_album.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_select_photo_album.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_device_file_option.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\popup_device_file_option.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_web.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_cloud_web.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_backup_mode.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\activity_backup_mode.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pl_base_pattern_activity.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\pl_base_pattern_activity.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lock_interval.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\item_lock_interval.xml"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_line.xml",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\layout\\layout_line.xml"
+    }
+]

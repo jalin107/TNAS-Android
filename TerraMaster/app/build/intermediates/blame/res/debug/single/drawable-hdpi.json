@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_file_down.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-hdpi\\arrow_file_down.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_file_up.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-hdpi\\arrow_file_up.png"
+    }
+]

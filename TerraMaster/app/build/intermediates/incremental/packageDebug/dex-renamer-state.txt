@@ -1,0 +1,7 @@
+#Sat Dec 31 14:29:20 CST 2016
+base.0=D\:\\workspace\\TerraMaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fefc25794b3fea9335e31a6cf60b56678a1f83d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workspace\\TerraMaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f9b457058d9b5c8b38f23e90bdb10f8de8df57e0\\classes.dex
+base.1=D\:\\workspace\\TerraMaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f9b457058d9b5c8b38f23e90bdb10f8de8df57e0
+file.0=D\:\\workspace\\TerraMaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fefc25794b3fea9335e31a6cf60b56678a1f83d\\classes.dex

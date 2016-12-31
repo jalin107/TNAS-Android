@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/layout_headerbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo_backup_mode"/>
+
+        <include layout="@layout/layout_line"/>
+
+        <RelativeLayout
+            android:id="@+id/rlOnlyNewPhotos"
+            style="@style/RLSettingsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary">
+
+            <ImageView
+                android:id="@+id/ivRightNewPhotos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_right_2"/>
+
+            <com.terramaster.widget.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/ivArrow4"
+                android:text="@string/only_backup_new_photos"
+                android:textColor="@color/text_color_black"
+                android:textSize="@dimen/sp_18"/>
+        </RelativeLayout>
+
+        <include layout="@layout/layout_line"/>
+
+        <RelativeLayout
+            android:id="@+id/rlAllPhotos"
+            style="@style/RLSettingsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary">
+
+            <ImageView
+                android:id="@+id/ivRightAllPhotos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_right_2"/>
+
+            <com.terramaster.widget.MyTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/ivArrow4"
+                android:text="@string/backup_all_photos"
+                android:textColor="@color/text_color_black"
+                android:textSize="@dimen/sp_18"/>
+        </RelativeLayout>
+
+        <include layout="@layout/layout_line"/>
+
+        <com.terramaster.widget.MyButton
+            android:id="@+id/btnFinish"
+            style="@style/BlueButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_marginRight="@dimen/dp_10"
+            android:layout_marginTop="@dimen/dp_30"
+            android:text="@string/finish"/>
+    </LinearLayout>
+
+</LinearLayout>

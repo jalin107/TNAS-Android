@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\uvv_on_error.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\uvv_on_error.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\uvv_itv_player_play.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\uvv_itv_player_play.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_bar.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\loading_bar.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\uvv_seek_dot.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\uvv_seek_dot.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\TerraMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\uvv_common_ic_loading_icon.png",
+        "source": "D:\\workspace\\TerraMaster\\app\\src\\main\\res\\drawable-mdpi\\uvv_common_ic_loading_icon.png"
+    }
+]

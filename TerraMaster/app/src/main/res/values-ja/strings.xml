@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Japanise resources file -->
+
+    <string name="app_name">TNAS</string>
+    <!-- Labels -->
+    <string name="confirm">確認</string>
+    <string name="alert">注意</string>
+    <string name="yes">はい</string>
+    <string name="no">いえ</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="no_connection">接続されていない</string>
+    <string name="lets_start">スタート</string>
+    <string name="local_file">ローカルファイル</string>
+    <string name="back">戻る</string>
+    <string name="me">私</string>
+    <string name="item">項目</string>
+    <string name="display_password">パスワ\nド表示</string>
+    <string name="hide_password">パスワ\nド隠す</string>
+    <string name="remember_me">私を覚えて</string>
+    <string name="login">登録</string>
+    <string name="logout">ログアウト</string>
+    <string name="all_files">全部ファイル</string>
+    <string name="all">全部</string>
+    <string name="all_completed">全部終わり</string>
+    <string name="album_backup">アルバムバックアップ</string>
+    <string name="password_lock">パスワードロック</string>
+    <string name="untenable">開く</string>
+    <string name="tenable">閉じる</string>
+    <string name="create_new_folder">フォルダを作成</string>
+    <string name="file_download">ファイルをダウンロード</string>
+    <string name="upload_only_wifi">Wi-Fi接続時だけにアップロード</string>
+    <string name="clear_local_files">ローカルテンポラリファイルをクリア</string>
+    <string name="instructions">説明</string>
+    <string name="feedback">フィードバック</string>
+    <string name="version_information">バージョン情報</string>
+    <string name="pattern_lock_switch">パターンロックスイッチ</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="instagram">Instagram</string>
+    <string name="pintrest">Pintrest</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="we_chat">WeChat</string>
+    <string name="qq">QQ</string>
+    <string name="mail">メール</string>
+    <string name="upload_to">アップロード所：</string>
+    <string name="start_upload">アップロード開始</string>
+    <string name="name">名前：</string>
+    <string name="ip">IP: </string>
+    <string name="mac">MAC: </string>
+    <string name="wifi">WiFi</string>
+    <string name="searching">捜索中&#8230;</string>
+    <string name="enable_auto_backup">自動バックアップを開く</string>
+    <string name="no_photos_backed_up">もうバックアップした写真数</string>
+    <string name="backup_photos_to">写真をバックアップする所：</string>
+    <string name="album_auto_backup">アルバムが自動バックアップ</string>
+    <string name="select_album_for_auto_backup">アルバムを選択して自動バックアップ</string>
+    <string name="auto_pause_when_power_low">電気量が20 %以下時に自動バックアップが一時停止</string>
+    <string name="next">次へ</string>
+    <string name="total_number_of_photos">写真総数：</string>
+    <string name="finish">終わり</string>
+    <string name="only_backup_new_photos">新しい写真だけをバックアップ</string>
+    <string name="backup_all_photos">全部写真をバックアップ</string>
+
+    <string-array name="lock_intervals">
+        <item>すぐに</item>
+        <item>1 分</item>
+        <item>2 分</item>
+        <item>3 分</item>
+        <item>4 分</item>
+        <item>5 分</item>
+    </string-array>
+
+    <!-- Titles label -->
+    <string name="home">ホームページ</string>
+    <string name="upload">アップロード</string>
+    <string name="share">シェア</string>
+    <string name="more">もっと</string>
+    <string name="download">ダウンロード</string>
+    <string name="recover">リカバー</string>
+    <string name="pause">一時停止</string>
+    <string name="pause_all">全部一時停止</string>
+    <string name="recovery_all">全部リカバー</string>
+    <string name="delete_all">全部削除</string>
+    <string name="downloading">ダウンロード中&#8230;</string>
+    <string name="uploading">アップロード中&#8230;</string>
+    <string name="waiting">待っている&#8230;</string>
+    <string name="error">エラー</string>
+    <string name="paused">中断</string>
+    <string name="completed">完了</string>
+    <string name="rename">リネーム</string>
+    <string name="delete">削除</string>
+    <string name="login_tcloud">TNASデバイスをログイン</string>
+    <string name="select_file">ファイルを選択する</string>
+    <string name="file_selected">選択済みのファイル</string>
+    <string name="pattern_lock_settings">パターンロック</string>
+    <string name="settings">設定</string>
+    <string name="set_pattern_lock">パターンロック設定</string>
+    <string name="close_pattern_lock">パターンロックを閉める</string>
+    <string name="check_pattern">パターンロックチェック</string>
+    <string name="modify_pattern_lock">パターンロック変更</string>
+    <string name="lock_interval">施錠時間</string>
+    <string name="remote_login">リモートログイン</string>
+    <string name="tasks_list">タスクリスト</string>
+    <string name="auto_backup">自動的にバックアップ</string>
+    <string name="select_album">アルバムを選択</string>
+    <string name="backup_mode">バックアップモード</string>
+
+    <!-- Hint label -->
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+
+    <!-- Nodata errors -->
+    <string name="no_item">内容がない</string>
+    <string name="no_devices_found">ローカルTNASデバイスが見つかりません</string>
+    <string name="no_task">タスクがない</string>
+
+    <!-- Confirm messages -->
+    <string name="confirm_clear_local_files">ローカルテンポラリファイルを全部クリアしますか？</string>
+    <string name="confirm_delete_file">このファイルを削除しますか？</string>
+    <string name="confirm_delete_directory">このディレクトリを削除しますか？</string>
+    <string name="confirm_wifi_setting">あなたのモバイルデバイスとTNASが同じサブネットにあるのは必要です。すぐにWi-Fi設定へ行きますか？</string>
+    <string name="confirm_tcloud_remote_login">ローカルTNASデバイスが見つかりません。\n\nTNASをリモートログインしますか？</string>
+    <string name="confirm_delete_all_task">タスクリストからこのタスクを削除しますか？</string>
+    <string name="confirm_facebook_install">Facebook アプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_twitter_install">Twitter アプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_googleplus_install">Google Plus アプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_linkedin_install">LindedIn アプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_wechat_install">WeChatアプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_qq_install">QQアプリがインストールされていません。今インストールしますか？</string>
+    <string name="confirm_mailapp_install">メールがインストールされていません。今インストールしますか？</string>
+    <!-- Success messages -->
+    <string name="success_download">ファイルのダウンロードがタスクリストに加えられました！</string>
+    <string name="download_tip">Download path:</string>
+    <string name="success_delete_file">ファイルの削除が完了！</string>
+    <string name="success_delete_directory">フォルダの削除が完了！</string>
+    <string name="success_upload">ファイルのアップロードがタスクリストに加えられました！</string>
+    <string name="success_rename_file">ファイルのリネームが完了</string>
+    <string name="success_rename_directory">フォルダのリネームが完了</string>
+    <string name="success_create_directory">フォルダの作成が完了</string>
+    <string name="success_pause_task">タスクポーズ完了！</string>
+    <string name="success_pause_all_task">タスクが全部ポーズ完了！</string>
+    <string name="success_recover_task">タスクリカバー完了！</string>
+    <string name="success_recover_all_task">タスクが全部リカバー完了！</string>
+    <string name="success_delete_task">タスクがタスクリストから削除しました</string>
+    <string name="success_delete_all_task">タスクが全部タスクリストから削除しました</string>
+    <string name="success_delete_all_completed_task">完了したタスクが全部タスクリストから削除しました</string>
+
+    <!-- Text -->
+    <string name="terra_master_splash">鉄威马--データストレージマスター</string>
+    <string name="welcome_1">鉄威马TNASようこそ！</string>
+    <string name="welcome_1_info">TNASがいつでも鉄威马設備をアクセスできる\n 楽にデータを管理と共有します。</string>
+    <string name="welcome_2">写真をブラウズとバックアップ</string>
+    <string name="welcome_3">音楽とビデオを放送する</string>
+    <string name="welcome_4">ファイルのシェアとダウンロード</string>
+    <string name="auto_back_instruction">携帯の写真をTNASデバイスに自動的にバックアップ</string>
+    <string name="permanent_preservation">永久保持</string>
+    <string name="secure_backup">安全バックアップ</string>
+    <string name="please_select_directory_for_backup">バックアップのディレクトリを選択してください</string>
+    <string name="share_subject">鉄威马シェアするリンク</string>
+
+    <!-- Error messages -->
+    <string name="e_no_internet">ネットを検査してからもう一度試みます！</string>
+    <string name="e_no_app_found">このファイルを開くアプリケーションが見つかりません</string>
+    <string name="e_blank_username">ユーザー名を入力して下さい</string>
+    <string name="e_blank_password">パスワードを入力して下さい</string>
+    <string name="e_unknown">エラー、再試してください！</string>
+    <string name="e_unknown_file_format">未知のファイルフォーマット！</string>
+    <string name="e_login_failed">登録情報エラー、再試してください！</string>
+    <string name="e_blank_file_name">ファイル名を入力して下さい</string>
+    <string name="e_select_file_download">ダウンロードのファイルを選択して下さい</string>
+    <string name="e_select_file_share">シェアのファイルを選択してください</string>
+    <string name="e_select_album_for_backup">せめて1つのアルバムを選択してバックアップします</string>
+    <string name="e_upload_to_root_directory">ファイルはルートディレクトリにはアップロードできません</string>
+    <string name="e_upload_to_readonly_directory">ファイルはリードオンリーにはアップロードできません</string>
+    <string name="e_no_email_app_found">フィードバックを送信するメールアプリケーションソフトが見つかりません</string>
+    <!-- Paterrn Lock strings -->
+    <string name="pl_cancel">キャンセル</string>
+    <string name="pl_confirm">確認</string>
+    <string name="pl_confirm_pattern">パターンを再び書いて確認する</string>
+    <string name="pl_continue">続けて</string>
+    <string name="pl_draw_pattern">新しいアンロックパターンを描く</string>
+    <string name="pl_draw_pattern_to_unlock">アンロックパターンを描く</string>
+    <string name="pl_forgot_pattern">パターンを忘れた</string>
+    <string name="pl_pattern_confirmed">新しいアンロックパターン</string>
+    <string name="pl_pattern_recorded">記録のパターン</string>
+    <string name="pl_pattern_too_short">少なくとも%dポイントに接続 してから再試してください！</string>
+    <string name="pl_recording_pattern">完成してから指を離す</string>
+    <string name="pl_redraw">再描画</string>
+    <string name="pl_wrong_pattern">パターンエラー、再入力して下さい</string>
+    <string name="pl_access_pattern_start">描き始めた</string>
+    <string name="pl_access_pattern_cleared">パターンクリア</string>
+    <string name="pl_access_pattern_cell_added">添加しました</string>
+    <string name="pl_access_pattern_detected">描く完了</string>
+</resources>

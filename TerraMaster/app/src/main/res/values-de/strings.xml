@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- German resources file -->
+
+    <string name="app_name">TNAS</string>
+    <!-- Labels -->
+    <string name="confirm">Bestätigen</string>
+    <string name="alert">Warnung</string>
+    <string name="yes">ja</string>
+    <string name="no">Nein</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no_connection">Keine Verbindung</string>
+    <string name="lets_start">Los</string>
+    <string name="local_file">Lokale Datei</string>
+    <string name="back">Zurück</string>
+    <string name="me">Ich</string>
+    <string name="item">Objekt(e)</string>
+    <string name="display_password">Display\nPasswort</string>
+    <string name="hide_password">Verbergen\nPasswort</string>
+    <string name="remember_me">Meine Daten speichern</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="all_files">Alle Dateien</string>
+    <string name="all">Alle</string>
+    <string name="all_completed">Alle beendet</string>
+    <string name="album_backup">Album Backup</string>
+    <string name="password_lock">Passwortsperre</string>
+    <string name="untenable">Begrenzt</string>
+    <string name="tenable">Unbegrenzt</string>
+    <string name="create_new_folder">Neuen Ordner erstellen</string>
+    <string name="file_download">Datei herunterladen</string>
+    <string name="upload_only_wifi">Hochladen nur mit WiFi</string>
+    <string name="clear_local_files">Lokale temporäre Datei(en) löschen</string>
+    <string name="instructions">Anleitung</string>
+    <string name="feedback">Feedback</string>
+    <string name="version_information">Versionsinformationen</string>
+    <string name="pattern_lock_switch">Sperrmuster ändern</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="instagram">Instagram</string>
+    <string name="pintrest">Pintrest</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="we_chat">WeChat</string>
+    <string name="qq">QQ</string>
+    <string name="mail">E-Mail</string>
+    <string name="upload_to">Hochladen auf: -</string>
+    <string name="start_upload">Hochladen starten</string>
+    <string name="name">Name: </string>
+    <string name="ip">IP: </string>
+    <string name="mac">MAC: </string>
+    <string name="wifi">WiFi</string>
+    <string name="searching">Suche&#8230;</string>
+    <string name="enable_auto_backup">Auto-Backup zulassen</string>
+    <string name="no_photos_backed_up">Anzahl der Fotos zum Backup</string>
+    <string name="backup_photos_to">Backup Fotos an: </string>
+    <string name="album_auto_backup">Album Auto-Backup</string>
+    <string name="select_album_for_auto_backup">Album für automatischen\nBackup wählen</string>
+    <string name="auto_pause_when_power_low">Automatisch anhalten, wenn Leistung unter 20 %</string>
+    <string name="next">Weiter</string>
+    <string name="total_number_of_photos">Gesamtanzahl der Fotos: </string>
+    <string name="finish">Beenden</string>
+    <string name="only_backup_new_photos">Backup nur von neuen Fotos</string>
+    <string name="backup_all_photos">Backup aller Fotos</string>
+
+    <string-array name="lock_intervals">
+        <item>Jetzt</item>
+        <item>1 min</item>
+        <item>2 mins</item>
+        <item>3 mins</item>
+        <item>4 mins</item>
+        <item>5 mins</item>
+    </string-array>
+
+    <!-- Titles label -->
+    <string name="home">Home</string>
+    <string name="upload">Hochladen</string>
+    <string name="share">Teilen</string>
+    <string name="more">Mehr</string>
+    <string name="download">Herunterladen</string>
+    <string name="recover">Wiederherstellen</string>
+    <string name="pause">Anhalten</string>
+    <string name="pause_all">Alle anhalten</string>
+    <string name="recovery_all">Alle wiederherstellen</string>
+    <string name="delete_all">Alle löschen</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="uploading">Herunterladen&#8230;</string>
+    <string name="waiting">Warte&#8230;</string>
+    <string name="error">Fehler</string>
+    <string name="paused">Angehalten</string>
+    <string name="completed">Beendet</string>
+    <string name="rename">Umbenennen</string>
+    <string name="delete">Löschen</string>
+    <string name="login_tcloud">Login TNAS Gerät</string>
+    <string name="select_file">Datei(en) auswählen</string>
+    <string name="file_selected">Ausgewählte Datei(en)</string>
+    <string name="pattern_lock_settings">Mustersperre</string>
+    <string name="settings">Einstellungen</string>
+    <string name="set_pattern_lock">Mustersperre einstellen</string>
+    <string name="close_pattern_lock">Mustersperre schließen</string>
+    <string name="check_pattern">Muster überprüfen</string>
+    <string name="modify_pattern_lock">Mustersperre ändern</string>
+    <string name="lock_interval">Sperrzeitraum</string>
+    <string name="remote_login">Remote Login</string>
+    <string name="tasks_list">Aufgabenliste</string>
+    <string name="auto_backup">Auto-Backup</string>
+    <string name="select_album">Album wählen</string>
+    <string name="backup_mode">Backup Mode</string>
+
+    <!-- Hint label -->
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+
+    <!-- Nodata errors -->
+    <string name="no_item">Kein Objekt verfügbar</string>
+    <string name="no_devices_found">Kein lokales TNAS Gerät gefunden</string>
+    <string name="no_task">Keine Aufgaben verfügbar</string>
+
+    <!-- Confirm messages -->
+    <string name="confirm_clear_local_files">Wollen Sie wirklich alle lokalen temporären Dateien löschen?</string>
+    <string name="confirm_delete_file">Wollen Sie diese Datei wirklich löschen?</string>
+    <string name="confirm_delete_directory">Wollen Sie dieses Verzeichnis wirklich löschen?</string>
+    <string name="confirm_wifi_setting">Ihr Mobilgerät und das TNAS Gerät müssen sich im gleichen Subnetz (Wi-Fi) befinden. Wollen Sie jetzt zu Wi-Fi Einstellungen gehen?</string>
+    <string name="confirm_tcloud_remote_login">Kein lokales TNAS Gerät gefunden.\n\nWollen Sie sich bei TNAS remote einloggen?</string>
+    <string name="confirm_delete_all_task">Wollen Sie wirklich alle Aufgaben aus der Aufgabenliste löschen?</string>
+    <string name="confirm_facebook_install">Facebook App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_twitter_install">Twitter App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_googleplus_install">Google Plus App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_linkedin_install">LinkedIn App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_wechat_install">WeChat App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_qq_install">QQ App ist nicht installiert. Wollen Sie sie jetzt installieren?</string>
+    <string name="confirm_mailapp_install">Es ist keine E-Mail App installiert. Wollen Sie sie jetzt installieren?</string>
+    <!-- Success messages -->
+    <string name="success_download">Dateidownload wurde zur Aufgabenliste hinzugefügt!</string>
+    <string name="download_tip">Download path:</string>
+    <string name="success_delete_file">Datei gelöscht</string>
+    <string name="success_delete_directory">Ordner gelöscht</string>
+    <string name="success_upload">Datei-Upload wurde zur Aufgabenliste hinzugefügt!</string>
+    <string name="success_rename_file">Datei umbenannt</string>
+    <string name="success_rename_directory">Ordner umbenannt</string>
+    <string name="success_create_directory">Der Ordner wurde erstellt</string>
+    <string name="success_pause_task">Aufgabe anhalten ausgeführt!</string>
+    <string name="success_pause_all_task">Alle Aufgaben anhalten ausgeführt!</string>
+    <string name="success_recover_task">Aufgabe wurde wiederhergestellt!</string>
+    <string name="success_recover_all_task">Alle Aufgaben wurden wiederhergestellt!</string>
+    <string name="success_delete_task">Aufgabe wurde von der Aufgabenliste entfernt</string>
+    <string name="success_delete_all_task">Alle Aufgaben wurden von der Aufgabenliste entfernt</string>
+    <string name="success_delete_all_completed_task">Alle beendeten Aufgaben wurden von der Aufgabenliste entfernt</string>
+
+    <!-- Text -->
+    <string name="terra_master_splash">TerraMaster-Data Storage Master</string>
+    <string name="welcome_1">Willkommen bei TerraMaster TNAS!</string>
+    <string name="welcome_1_info">Mit TNAS haben Sie jederzeit Zugang zu TerraMaster TNAS Ausrüstung\nGespeicherte Dokumente einfach verwalten und teilen</string>
+    <string name="welcome_2">Suchen und Backup von Fotos</string>
+    <string name="welcome_3">Video und Musik abspielen</string>
+    <string name="welcome_4">Dateien teilen und herunterladen</string>
+    <string name="auto_back_instruction">Automatischer Backup von Fotos von Mobilgfunkerät an TNAS Gerät</string>
+    <string name="permanent_preservation">Permanente Aufbewahrung</string>
+    <string name="secure_backup">Sicherer Backup</string>
+    <string name="please_select_directory_for_backup">Bitte wählen Sie das Verzeichnis für den Backup aus</string>
+    <string name="share_subject">Terramaster Links teilen</string>
+
+    <!-- Error messages -->
+    <string name="e_no_internet">Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es noch einmal!</string>
+    <string name="e_no_app_found">Keine geeignete App zum Öffnen dieser Datei gefunden.</string>
+    <string name="e_blank_username">Bitte geben Sie den Benutzernamen ein</string>
+    <string name="e_blank_password">Bitte geben Sie das Passwort ein</string>
+    <string name="e_unknown">Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut!</string>
+    <string name="e_unknown_file_format">Unbekanntes Dateiformat!</string>
+    <string name="e_login_failed">Login-Daten sind nicht korrekt. Bitte versuchen Sie es erneut!</string>
+    <string name="e_blank_file_name">Bitte geben Sie den Dateinamen ein</string>
+    <string name="e_select_file_download">Bitte wählen Sie die Datei(en), die Sie herunterladen möchten, aus</string>
+    <string name="e_select_file_share">Bitte wählen Sie die Datei(en), die Sie teilen möchten, aus</string>
+    <string name="e_select_album_for_backup">Bitte wählen Sie mindestens ein Album für den Backup  aus</string>
+    <string name="e_upload_to_root_directory">Sie können keine Datei(en) in das Wurzelverzeichnis hochladen</string>
+    <string name="e_upload_to_readonly_directory">Sie können keine Datei(en) in ein schreibgeschütztes Verzeichnis hochladen</string>
+    <string name="e_no_email_app_found">Keine geeignete E-Mail App zum Senden von Feedback gefunden.</string>
+    <!-- Paterrn Lock strings -->
+    <string name="pl_cancel">Abbrechen</string>
+    <string name="pl_confirm">Bestätigen</string>
+    <string name="pl_confirm_pattern">Zeichnen Sie das Muster erneut zum Bestätigen</string>
+    <string name="pl_continue">Fortfahren</string>
+    <string name="pl_draw_pattern">Zeichnen Sie ein Entsperr-Muster</string>
+    <string name="pl_draw_pattern_to_unlock">Muster zum Entsperren zeichnen</string>
+    <string name="pl_forgot_pattern">Muster vergessen</string>
+    <string name="pl_pattern_confirmed">Ihr neues Entsperr-Muster</string>
+    <string name="pl_pattern_recorded">Muster gespeichert</string>
+    <string name="pl_pattern_too_short">Sie müssen mindestens %d Punkte verbinden. Bitte erneut zeichnen</string>
+    <string name="pl_recording_pattern">Bitte Finger lösen, wenn Sie fertig sind</string>
+    <string name="pl_redraw">Erneut zeichnen</string>
+    <string name="pl_wrong_pattern">Falsches Muster. Bitte erneut zeichnen</string>
+    <string name="pl_access_pattern_start">Muster gestartet</string>
+    <string name="pl_access_pattern_cleared">Muster gelöscht</string>
+    <string name="pl_access_pattern_cell_added">Feld hinzugefügt</string>
+    <string name="pl_access_pattern_detected">Muster fertiggestellt</string>
+</resources>

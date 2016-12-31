@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- English resources file -->
+
+    <string name="app_name">TNAS</string>
+
+    <!-- Labels -->
+    <string name="confirm">Confirm</string>
+    <string name="alert">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_connection">No Connection</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="local_file">Local File</string>
+    <string name="back">Back</string>
+    <string name="me">Me</string>
+    <string name="item">Item(s)</string>
+    <string name="display_password">Display\npassword</string>
+    <string name="hide_password">Hide\npassword</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="all_files">All files</string>
+    <string name="all">All</string>
+    <string name="all_completed">All completed</string>
+    <string name="album_backup">Album backup</string>
+    <string name="password_lock">Password lock</string>
+    <string name="untenable">Untenable</string>
+    <string name="tenable">Tenable</string>
+    <string name="create_new_folder">Create new folder</string>
+    <string name="file_download">File download</string>
+    <string name="upload_only_wifi">Upload only with WiFi</string>
+    <string name="clear_local_files">Clear local temporary file(s)</string>
+    <string name="instructions">Instructions</string>
+    <string name="feedback">Feedback</string>
+    <string name="version_information">Version information</string>
+    <string name="pattern_lock_switch">Pattern lock switch</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="instagram">Instagram</string>
+    <string name="pintrest">Pintrest</string>
+    <string name="linked_in">LinkedIn</string>
+    <string name="we_chat">WeChat</string>
+    <string name="qq">QQ</string>
+    <string name="mail">Mail</string>
+    <string name="upload_to">Upload to:- </string>
+    <string name="start_upload">Start upload</string>
+    <string name="name">Name: </string>
+    <string name="ip">IP: </string>
+    <string name="mac">MAC: </string>
+    <string name="wifi">WiFi</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="enable_auto_backup">Enable auto backup</string>
+    <string name="no_photos_backed_up">Number of photos backed up</string>
+    <string name="backup_photos_to">Backup photos to: </string>
+    <string name="album_auto_backup">Album auto backup</string>
+    <string name="select_album_for_auto_backup">Select album for automatically\nbackued up</string>
+    <string name="auto_pause_when_power_low">Automatically paused when power is less then 20%</string>
+    <string name="next">Next</string>
+    <string name="total_number_of_photos">The total number of photos: </string>
+    <string name="finish">Finish</string>
+    <string name="only_backup_new_photos">Only backup new photos</string>
+    <string name="backup_all_photos">Backup all photos</string>
+
+    <string-array name="lock_intervals">
+        <item>Now</item>
+        <item>1 min</item>
+        <item>2 mins</item>
+        <item>3 mins</item>
+        <item>4 mins</item>
+        <item>5 mins</item>
+    </string-array>
+
+    <!-- Titles label -->
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="share">Share</string>
+    <string name="more">More</string>
+    <string name="download">Download</string>
+    <string name="recover">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="pause_all">Pause All</string>
+    <string name="recovery_all">Resume All</string>
+    <string name="delete_all">Delete All</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="uploading">Uploading&#8230;</string>
+    <string name="waiting">Waiting&#8230;</string>
+    <string name="error">Error</string>
+    <string name="paused">Paused</string>
+    <string name="completed">Completed</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="login_tcloud">Log in the Tcloud device</string>
+    <string name="select_file">Select File(s)</string>
+    <string name="file_selected">file(s) selected</string>
+    <string name="pattern_lock_settings">Pattern lock</string>
+    <string name="settings">Settings</string>
+    <string name="set_pattern_lock">Set pattern lock</string>
+    <string name="close_pattern_lock">Close pattern lock</string>
+    <string name="check_pattern">Check Pattern</string>
+    <string name="modify_pattern_lock">Modify pattern lock</string>
+    <string name="lock_interval">Lock interval</string>
+    <string name="remote_login">Remote Login</string>
+    <string name="tasks_list">Tasks list</string>
+    <string name="auto_backup">Auto backup</string>
+    <string name="select_album">Select album</string>
+    <string name="backup_mode">Backup Mode</string>
+
+    <!-- Hint label -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- Nodata errors -->
+    <string name="no_item">No Item Available</string>
+    <string name="no_devices_found">No local Tcloud device found</string>
+    <string name="no_task">No Task Available</string>
+
+    <!-- Confirm messages -->
+    <string name="confirm_clear_local_files">Are you sure to clear all local temporary file(s)?</string>
+    <string name="confirm_delete_file">Are you sure to delete this file?</string>
+    <string name="confirm_delete_directory">Are you sure to delete this directory?</string>
+    <string name="confirm_wifi_setting">Your mobile device and TNAS device must be in same subnet(Wi-Fi). Are you want to go to Wi-Fi settings now?</string>
+    <string name="confirm_tcloud_remote_login">No local Tcloud device found.\n\nDo you want to have remote cloud login?</string>
+    <string name="confirm_delete_all_task">Are you sure to delete all task(s) from task list?</string>
+    <string name="confirm_facebook_install">The Facebook app is not installed. Would you like to install it now?</string>
+    <string name="confirm_twitter_install">The Twitter app is not installed. Would you like to install it now?</string>
+    <string name="confirm_googleplus_install">The Google plus app is not installed. Would you like to install it now?</string>
+    <string name="confirm_linkedin_install">The LinkedIn app is not installed. Would you like to install it now?</string>
+    <string name="confirm_wechat_install">The WeChat app is not installed. Would you like to install it now?</string>
+    <string name="confirm_qq_install">The QQ app is not installed. Would you like to install it now?</string>
+    <string name="confirm_mailapp_install">No app for emailing seems installed. Would you like to install it now?</string>
+    <!-- Success messages -->
+    <string name="success_download">File downloading has been added to task list!</string>
+    <string name="download_tip">Download path:</string>
+    <string name="success_delete_file">File deleteted successfully</string>
+    <string name="success_delete_directory">Folder deleted successfully</string>
+    <string name="success_upload">file(s) uploading has been added to task list!</string>
+    <string name="success_rename_file">File renamed successfully</string>
+    <string name="success_rename_directory">Folder renamed successfully</string>
+    <string name="success_create_directory">Folder created successfully</string>
+    <string name="success_pause_task">Pause task succeeded!</string>
+    <string name="success_pause_all_task">Pause all tasks succeeded!</string>
+    <string name="success_recover_task">Recover task succeeded!</string>
+    <string name="success_recover_all_task">Recover all tasks succeeded!</string>
+    <string name="success_delete_task">Task removed from task list</string>
+    <string name="success_delete_all_task">All tasks removed from task list</string>
+    <string name="success_delete_all_completed_task">All completed tasks removed from task list</string>
+
+    <!-- Text -->
+    <string name="terra_master_splash">TerraMaster-Private Cloud Storage Master</string>
+    <string name="welcome_1">Welcome to Terra Master Tcloud</string>
+    <string name="welcome_1_info">Tcloud lets you access Terra Master Tcloud equipment anytime\nEasily manage and share documents stored</string>
+    <string name="welcome_2">Browse and backup photos</string>
+    <string name="welcome_3">Play video and music</string>
+    <string name="welcome_4">Share and download files</string>
+    <string name="auto_back_instruction">Automatically backup the photos from Mobile phone to Tcloud device</string>
+    <string name="permanent_preservation">Permant preservation</string>
+    <string name="secure_backup">Secure backup</string>
+    <string name="please_select_directory_for_backup">Please select the directory to be backed up</string>
+    <string name="share_subject">Terramaster Share Links</string>
+
+    <!-- Error messages -->
+    <string name="e_no_internet">Please check your internet connection and try again!</string>
+    <string name="e_no_app_found">No proper app found for open this file.</string>
+    <string name="e_blank_username">Please enter username</string>
+    <string name="e_blank_password">Please enter password</string>
+    <string name="e_unknown">Something went wrong, please try again!</string>
+    <string name="e_unknown_file_format">Unknown file format!</string>
+    <string name="e_login_failed">Login parameters are wrong, please try again!</string>
+    <string name="e_blank_file_name">Please enter file name</string>
+    <string name="e_select_file_download">Please select file(s) for download</string>
+    <string name="e_select_file_share">Please select file(s) for share</string>
+    <string name="e_select_album_for_backup">Please select atleast one album for backup</string>
+    <string name="e_upload_to_root_directory">Sorry, you can\'t upload file(s) in root directory</string>
+    <string name="e_upload_to_readonly_directory">Sorry, you can\'t upload file(s) in readonly directory</string>
+    <string name="e_no_email_app_found">No proper mail app found to send feedback.</string>
+    <!-- Paterrn Lock strings -->
+    <string name="pl_cancel">Cancel</string>
+    <string name="pl_confirm">Confirm</string>
+    <string name="pl_confirm_pattern">Draw the pattern again to confirm</string>
+    <string name="pl_continue">Continue</string>
+    <string name="pl_draw_pattern">Draw an unlock pattern</string>
+    <string name="pl_draw_pattern_to_unlock">Draw pattern to unlock</string>
+    <string name="pl_forgot_pattern">Forgot pattern</string>
+    <string name="pl_pattern_confirmed">Your new unlock pattern</string>
+    <string name="pl_pattern_recorded">Pattern recorded</string>
+    <string name="pl_pattern_too_short">Connect at least %d dots, please redraw</string>
+    <string name="pl_recording_pattern">Release finger when done</string>
+    <string name="pl_redraw">Redraw</string>
+    <string name="pl_wrong_pattern">Wrong pattern, please retry</string>
+    <string name="pl_access_pattern_start">Pattern started</string>
+    <string name="pl_access_pattern_cleared">Pattern cleared</string>
+    <string name="pl_access_pattern_cell_added">Cell added</string>
+    <string name="pl_access_pattern_detected">Pattern completed</string>
+
+</resources>

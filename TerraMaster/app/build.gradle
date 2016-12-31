@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.2'
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    defaultConfig {
+        applicationId "com.terramaster"
+        minSdkVersion 14
+        targetSdkVersion 22
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+    //  packagingOptions {
+    //      exclude 'META-INF/DEPENDENCIES'
+    //      exclude 'META-INF/NOTICE'
+    //       exclude 'META-INF/LICENSE'
+    //      exclude 'META-INF/LICENSE.txt'
+    //       exclude 'META-INF/NOTICE.txt'
+    //      exclude 'GuardeBy'
+    //   }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.3.0'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile files('libs/jcifs-1.3.18.jar')
+    compile files('libs/universal-image-loader-1.9.4.jar')
+    compile files('libs/commons-logging-1.1.3.jar')
+    compile files('libs/volley.jar')
+    //   compile files('libs/sardine.jar')
+    compile files('libs/commons-codec-1.4.jar')
+    compile files('libs/httpclient-4.3.1.jar')
+    compile files('libs/httpcore-4.3.1.jar')
+    compile files('libs/simple-xml-2.6.2.jar')
+    compile 'com.facebook.fresco:fresco:0.12.0'
+    // 支持 GIF 动图，需要添加
+    compile 'com.facebook.fresco:animated-gif:0.12.0'
+    // 支持 WebP （静态图+动图），需要添加
+    compile 'com.facebook.fresco:animated-webp:0.12.0'
+    compile 'com.facebook.fresco:webpsupport:0.12.0'
+}

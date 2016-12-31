@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Text sizes -->
+    <dimen name="sp_10">12sp</dimen>
+    <dimen name="sp_12">15sp</dimen>
+    <dimen name="sp_15">17sp</dimen>
+    <dimen name="sp_17">20sp</dimen>
+    <dimen name="sp_18">22sp</dimen>
+    <dimen name="sp_20">25sp</dimen>
+    <dimen name="sp_22">27sp</dimen>
+    <dimen name="sp_25">30sp</dimen>
+    <dimen name="sp_27">32sp</dimen>
+    <dimen name="sp_28">35sp</dimen>
+    <dimen name="sp_30">38sp</dimen>
+    <dimen name="sp_32">42sp</dimen>
+
+    <!-- General dp values -->
+    <dimen name="dp_1">2dp</dimen>
+    <dimen name="dp_2">4dp</dimen>
+    <dimen name="dp_3">5dp</dimen>
+    <dimen name="dp_5">8dp</dimen>
+    <dimen name="dp_7">10dp</dimen>
+    <dimen name="dp_10">15dp</dimen>
+    <dimen name="dp_12">17dp</dimen>
+    <dimen name="dp_15">20dp</dimen>
+    <dimen name="dp_17">22dp</dimen>
+    <dimen name="dp_18">23dp</dimen>
+    <dimen name="dp_20">27dp</dimen>
+    <dimen name="dp_22">30dp</dimen>
+    <dimen name="dp_25">35dp</dimen>
+    <dimen name="dp_27">39dp</dimen>
+    <dimen name="dp_28">40dp</dimen>
+    <dimen name="dp_30">42dp</dimen>
+    <dimen name="dp_32">45dp</dimen>
+    <dimen name="dp_35">48dp</dimen>
+    <dimen name="dp_37">50dp</dimen>
+    <dimen name="dp_40">52dp</dimen>
+    <dimen name="dp_42">55dp</dimen>
+    <dimen name="dp_45">60dp</dimen>
+    <dimen name="dp_47">62dp</dimen>
+    <dimen name="dp_50">65dp</dimen>
+
+    <dimen name="dp_60">78dp</dimen>
+    <dimen name="dp_70">90dp</dimen>
+    <dimen name="dp_80">110dp</dimen>
+    <dimen name="dp_90">122dp</dimen>
+    <dimen name="dp_100">140dp</dimen>
+    <dimen name="dp_120">170dp</dimen>
+    <dimen name="dp_150">200dp</dimen>
+
+    <!-- Extra specific size dimens -->
+    <dimen name="list_file_icon">78dp</dimen>
+    <dimen name="list_album_icon">140dp</dimen>
+</resources>

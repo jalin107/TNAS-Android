@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/llMain"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#55000000"
+              android:gravity="bottom"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/llContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dialog_bg"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/dp_10">
+
+        <com.terramaster.widget.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/share"
+            android:textColor="@color/text_color_black"
+            android:textSize="@dimen/sp_22"/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/dp_20">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvFacebook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_facebook"
+                    android:gravity="center"
+                    android:text="@string/facebook"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvTwitter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_twitter"
+                    android:gravity="center"
+                    android:text="@string/twitter"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvGooglePlus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_google_plus"
+                    android:gravity="center"
+                    android:text="@string/google_plus"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/dp_20">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvWeChat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_wechat"
+                    android:gravity="center"
+                    android:text="@string/we_chat"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvLinkedIn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_linkedin"
+                    android:gravity="center"
+                    android:text="@string/linked_in"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvQQ"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_qq"
+                    android:gravity="center"
+                    android:text="@string/qq"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/dp_20">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvInstagram"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_instagram"
+                    android:gravity="center"
+                    android:text="@string/instagram"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12"
+                    android:visibility="invisible">
+                </com.terramaster.widget.MyTextView>
+
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvMail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_mail"
+                    android:gravity="center"
+                    android:text="@string/mail"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12">
+                </com.terramaster.widget.MyTextView>
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+
+
+                <com.terramaster.widget.MyTextView
+                    android:id="@+id/tvPintrest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/dp_3"
+                    android:drawableTop="@drawable/ic_pinterest"
+                    android:gravity="center"
+                    android:text="@string/pintrest"
+                    android:textColor="@color/text_color_black"
+                    android:textSize="@dimen/sp_12"
+                    android:visibility="invisible">
+                </com.terramaster.widget.MyTextView>
+
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"/>
+            </TableRow>
+        </TableLayout>
+
+        <com.terramaster.widget.MyButton
+            android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10"
+            android:background="@drawable/white_button"
+            android:text="@string/cancel"
+            android:textColor="@color/text_color_black"
+            android:textSize="@dimen/sp_18"/>
+    </LinearLayout>
+
+</LinearLayout>

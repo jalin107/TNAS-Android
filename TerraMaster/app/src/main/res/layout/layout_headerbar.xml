@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:font="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:background="?attr/colorPrimary"
+             android:minHeight="?attr/actionBarSize"
+             android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvLeftDummy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:drawableLeft="@drawable/arrow_left_blue"
+            android:drawablePadding="@dimen/dp_3"
+            android:gravity="center_vertical"
+            android:text="@string/back"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/sp_20"
+            android:visibility="invisible"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvRightDummy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_10"
+            android:drawableLeft="@drawable/arrow_left_blue"
+            android:drawablePadding="@dimen/dp_3"
+            android:gravity="center_vertical"
+            android:text="@string/back"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/sp_20"
+            android:visibility="invisible"/>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvBackButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:drawableLeft="@drawable/arrow_left_blue"
+            android:drawablePadding="@dimen/dp_3"
+            android:gravity="center_vertical"
+            android:text="@string/back"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/sp_18"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:id="@+id/llRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_10"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.terramaster.widget.MyTextView
+                android:id="@+id/tvRightHeaderButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/back"
+                android:textColor="@color/blue"
+                android:textSize="@dimen/sp_18"
+                android:visibility="gone"
+                font:fontName="@string/font_bold"/>
+
+            <ImageView
+                android:id="@+id/ivRefreshBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_refresh"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+        <com.terramaster.widget.MyTextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/tvRightDummy"
+            android:layout_toRightOf="@id/tvLeftDummy"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="2"
+            android:text="Small Text"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/sp_18"
+            font:fontName="@string/font_bold"/>
+    </RelativeLayout>
+
+    <include
+        layout="@layout/layout_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:layout_gravity="bottom"/>
+
+</FrameLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/dialog_bg"
+              android:orientation="vertical">
+
+    <com.terramaster.widget.MyTextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="@dimen/dp_10"
+        android:paddingLeft="@dimen/dp_10"
+        android:paddingRight="@dimen/dp_10"
+        android:paddingTop="@dimen/dp_10"
+        android:text="Title"
+        android:textColor="@color/text_color_black"
+        android:textSize="@dimen/sp_20"/>
+
+    <com.terramaster.widget.MyEditText
+        android:id="@+id/edt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_10"
+        android:background="@drawable/white_button"
+        android:inputType="textCapSentences"
+        android:padding="@dimen/dp_7"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_18"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/divider_line"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.terramaster.widget.MyButton
+            android:id="@+id/btnNegative"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/trans_button"
+            android:onClick="onClick"
+            android:text="@string/cancel"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/sp_20"/>
+
+        <View
+            android:layout_width="@dimen/dp_1"
+            android:layout_height="match_parent"
+            android:background="@color/divider_line"/>
+
+        <com.terramaster.widget.MyButton
+            android:id="@+id/btnPositive"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/trans_button"
+            android:text="@string/ok"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/sp_20"/>
+    </LinearLayout>
+
+</LinearLayout>

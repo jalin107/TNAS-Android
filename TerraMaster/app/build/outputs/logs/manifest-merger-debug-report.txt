@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:2:11-36
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:15:5-114:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:18:9-45
+	android:largeHeap
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:20:9-33
+	android:theme
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:16:9-38
+activity#com.terramaster.SplashActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:23:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.terramaster.WelcomeActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:31:13-44
+activity#com.terramaster.player.MyImageView
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:35:13-47
+activity#com.terramaster.LoginActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:39:13-42
+activity#com.terramaster.CloudWebActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:43:13-45
+activity#com.terramaster.HomeActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:48:13-49
+	android:launchMode
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:47:13-41
+activity#com.terramaster.SettingsActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:52:13-45
+activity#com.terramaster.PatternLockActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:55:9-58:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:56:13-48
+activity#com.terramaster.SetPatternActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:59:9-62:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:60:13-47
+activity#com.terramaster.ConfirmPatternActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:63:9-66:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:64:13-51
+activity#com.terramaster.LockIntervalActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:67:9-70:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:68:13-49
+activity#com.terramaster.DeviceFilesActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:72:13-48
+activity#com.terramaster.LocalFilesActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:75:9-78:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:76:13-47
+activity#com.terramaster.TaskListActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:79:9-82:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:80:13-45
+activity#com.terramaster.SelectDeviceFilesActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:83:9-86:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:84:13-54
+activity#com.terramaster.AutoBackupActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:88:13-47
+activity#com.terramaster.SelectPhotoAlbumActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:91:9-94:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:92:13-53
+activity#com.terramaster.BackupModeActivity
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:95:9-98:20
+	android:screenOrientation
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:96:13-47
+receiver#com.terramaster.BootCompleteReceiver
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:100:19-55
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:101:13-103:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:102:17-78
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:102:25-76
+service#com.terramaster.service.BackgroundTaskService
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:106:9-109:19
+	android:exported
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:108:13-37
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:107:13-73
+service#com.terramaster.service.AutoBackupService
+ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:110:9-113:19
+	android:exported
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml:111:13-69
+uses-sdk
+INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-webp\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\webpsupport\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.12.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\TerraMaster\app\src\main\AndroidManifest.xml

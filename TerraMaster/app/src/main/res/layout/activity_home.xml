@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/mainBg"
+              android:gravity="center_horizontal"
+              android:orientation="vertical"
+              tools:context="${relativePackage}.${activityClass}">
+
+    <include layout="@layout/layout_headerbar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_blue"
+                android:padding="@dimen/dp_10">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/ivProfilePicture"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_picture_default"/>
+
+                    <com.terramaster.widget.MyTextView
+                        android:id="@+id/tvUsername"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/me"
+                        android:textColor="@color/light_blue_2"
+                        android:textSize="@dimen/sp_15"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/dp_10"
+                    android:gravity="center_vertical|left"
+                    android:orientation="vertical">
+
+                    <com.terramaster.widget.MyTextView
+                        android:id="@+id/tvDeviceName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="xyz"
+                        android:textColor="@color/text_color_black"
+                        android:textSize="@dimen/sp_18"/>
+
+                    <com.terramaster.widget.MyTextView
+                        android:id="@+id/tvDeviceAddress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="192.168.0.100.com"
+                        android:textColor="@color/light_blue_2"
+                        android:textSize="@dimen/sp_15"/>
+
+                    <com.terramaster.widget.MyTextView
+                        android:id="@+id/tvStorageStatus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="38.8 GB/40.0 TB"
+                        android:textColor="@color/light_blue_2"
+                        android:textSize="@dimen/sp_15"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <include layout="@layout/layout_line"/>
+
+            <com.terramaster.widget.MyButton
+                android:id="@+id/btnAllFiles"
+                style="@style/MenuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/all_files">
+            </com.terramaster.widget.MyButton>
+
+            <include layout="@layout/layout_line"/>
+
+            <com.terramaster.widget.MyButton
+                android:id="@+id/btnAlbumBackup"
+                style="@style/MenuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/album_backup">
+            </com.terramaster.widget.MyButton>
+
+            <include layout="@layout/layout_line"/>
+
+            <com.terramaster.widget.MyButton
+                android:id="@+id/btnTasksList"
+                style="@style/MenuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tasks_list">
+            </com.terramaster.widget.MyButton>
+
+            <include layout="@layout/layout_line"/>
+
+            <com.terramaster.widget.MyButton
+                android:id="@+id/btnSettings"
+                style="@style/MenuButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/settings">
+            </com.terramaster.widget.MyButton>
+
+            <include layout="@layout/layout_line"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

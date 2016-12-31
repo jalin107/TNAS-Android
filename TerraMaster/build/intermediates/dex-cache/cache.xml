@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_cc2fc09d83dfe2be38e761a74a38d19d6dbcec33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\commons-logging-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.1.3_8b70976941883b2d0ca19ab8b54ab42b1a0e2841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_f5917d12546afe0081638e9a06ac3d5cd4e1c924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_93016e01b45412bc399b5f3eb6ec5f1aa3a34327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8cf841434305ffe5e7bb0cd19f374e78a43fef2c">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f9b457058d9b5c8b38f23e90bdb10f8de8df57e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\commons-codec-1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.4_409c486920385e77032b41ca9c16a9eca2d6119a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\httpclient-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ec13f6423eb6d5858e229939a2bc118473ef94c">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.1_fb390fb21344b15581a2ad1c71521e42f32a59d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-base-0.12.0_1add9e451def700be6789fee487164e2d6f55e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\webpsupport\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3d9074e9cbc7d0eb180287e29ad3dec039763b5">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-webpsupport-0.12.0_c2081fa8a8d50b27d74792ceab6fa10281bb833d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_8d79adaf932ed3a17616a9946c97a61f1441a9f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_93c3e9346623b1d2244aee0c0480f8fae5ac2803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaylin\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_c8e4e37b92768f1837e5a519bebec770ce797ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\httpcore-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98e2eefcf524f757188f172642ecf5e2c7421947">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.1_40e790d5220c88dd998c9e0e6133ac0032102f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaylin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_34178c91e2edfeb74ec1df906713d7613aab1664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-gif-0.12.0_e3d172db4665156de08e6c7cc915c079c0ac188d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_83b5ddc53dcb764e59efd40ffd1732d21e39527f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_7bdedc2016d29016e3f72fb58588052d04b48f6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-webp\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="907480570b617f29e3a8f3d248b8a1d9fd137677">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-webp-0.12.0_3fe4a833905ac6014164cc01a2bcd20b24a4ddcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b052744db8e5e4e1d97146a2317d7b591fe9b54b">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8fefc25794b3fea9335e31a6cf60b56678a1f83d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\jcifs-1.3.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="29d62325100eac2bb3c25b44434acdc4d698c401">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\jcifs-1.3.18_6ca19a26a092d983b0ce20a80177de8e3001089a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\simple-xml-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd234a74e862023e87b0a0fe3b977b6456477038">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\simple-xml-2.6.2_f15974fe0388156e0f7a463efb3cd00033c3a944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_dee7979a6bff5b13161e3c4c76c7d7118299f715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4_8fe5e9d5f128df725d1cbf96f4c21a45a1e43636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_83cbd19a8297b2cde2152374fbffe1751d4d6d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f217b9e7e77dad83dfe45770dcf4d82a9fab933c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\TerraMaster\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_a0951203725f4783078503f69aa0ab7c9751e46f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\workspace\TerraMaster\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_b8993cb4b152d38e92b20e6ca3dfba6a7791cee9\classes.dex" />
+    </item>
+
+</items>
